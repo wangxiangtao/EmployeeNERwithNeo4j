@@ -1,0 +1,99 @@
+2014-09-07 06:33:18.591+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-09-07 06:33:18.706+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-09-07 06:33:18.852+0000 INFO  [o.n.k.i.n.s.StoreFactory]: Creating new db @ neo4j-db/neostore
+2014-09-07 06:33:20.285+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:20.288+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:20.374+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:20.498+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:20.951+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:20.952+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:20.973+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:21.015+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:21.217+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:21.218+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:21.219+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:21.219+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:21.220+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.strings] brickCount=0 brickSize=569344b mappedMem=569376768b (storeSize=128b)
+2014-09-07 06:33:21.220+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:21.221+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:21.221+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.arrays] brickCount=0 brickSize=644864b mappedMem=644874240b (storeSize=128b)
+2014-09-07 06:33:21.224+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db] brickCount=0 brickSize=6700384b mappedMem=670040064b (storeSize=0b)
+2014-09-07 06:33:21.226+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshipstore.db] brickCount=0 brickSize=8199848b mappedMem=819986432b (storeSize=0b)
+2014-09-07 06:33:21.227+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-09-07 06:33:21.228+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.nodestore.db] brickCount=0 brickSize=1855965b mappedMem=185597952b (storeSize=0b)
+2014-09-07 06:33:21.229+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-09-07 06:33:21.230+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-09-07 06:33:21.231+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:21.288+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:21.340+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:21.398+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:21.488+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:21.573+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:21.863+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:22.023+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:22.279+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:22.421+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:22.605+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:22.689+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:22.809+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:22.905+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:23.029+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2014-09-07 06:33:23.121+0000 INFO  [o.n.k.i.n.s.StoreFactory]: neo4j-db/neostore hit=0 miss=8 switches=0 ooe=0
+2014-09-07 06:33:23.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:23.310+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:23.310+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:23.310+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:23.311+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.strings] brickCount=0 brickSize=569344b mappedMem=569376768b (storeSize=128b)
+2014-09-07 06:33:23.311+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-09-07 06:33:23.311+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-09-07 06:33:23.311+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db.arrays] brickCount=0 brickSize=644864b mappedMem=644874240b (storeSize=128b)
+2014-09-07 06:33:23.312+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.propertystore.db] brickCount=0 brickSize=6700384b mappedMem=670040064b (storeSize=0b)
+2014-09-07 06:33:23.312+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshipstore.db] brickCount=0 brickSize=8199848b mappedMem=819986432b (storeSize=0b)
+2014-09-07 06:33:23.312+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-09-07 06:33:23.313+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.nodestore.db] brickCount=0 brickSize=1855965b mappedMem=185597952b (storeSize=0b)
+2014-09-07 06:33:23.313+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-09-07 06:33:23.313+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-09-07 06:33:23.314+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [neo4j-db/neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-09-07 06:33:23.403+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2014-09-07 06:33:23.628+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2014-09-07 06:33:23.709+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [neo4j-db/nioneo_logical.log.1] version=0, lastTxId=1 (clean)
+2014-09-07 06:33:23.963+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Rebuilding lucene scan store, this may take a while
+2014-09-07 06:33:23.965+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Lucene scan store rebuilt (roughly -1 nodes)
+2014-09-07 06:33:23.968+0000 INFO  [o.n.k.i.t.TxManager]: TM new log: tm_tx_log.1
+2014-09-07 06:33:24.044+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-09-07 06:33:24.058+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [neo4j-db/index/lucene.log.1] version=0, lastTxId=1 (clean)
+2014-09-07 06:33:24.170+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-09-07 06:33:24.176+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-09-07 06:33:24.179+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-09-07 06:33:24.179+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-09-07 06:33:24.179+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-09-07 06:33:24.180+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-09-07 06:33:24.180+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-09-07 06:33:24.180+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-09-07 06:33:24.181+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-09-07 06:33:24.193+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-09-07 06:33:24.242+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-09-07 06:33:24.242+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-09-07 06:33:27.669+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 820ms [total block time: 0.82s]
+2014-09-07 06:33:29.281+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 110ms [total block time: 0.93s]
+2014-09-07 06:33:32.311+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 1828ms [total block time: 2.758s]
+2014-09-07 06:33:35.521+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 107ms [total block time: 2.865s]
+2014-09-07 06:33:39.078+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 2056ms [total block time: 4.921s]
+2014-09-07 06:33:41.461+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 181ms [total block time: 5.102s]
+2014-09-07 06:33:45.824+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 179ms [total block time: 5.281s]
+2014-09-07 06:33:48.578+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 2554ms [total block time: 7.835s]
+2014-09-07 06:33:48.968+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 190ms [total block time: 8.025s]
+2014-09-07 06:33:49.405+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 137ms [total block time: 8.162s]
+2014-09-07 06:33:49.807+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 202ms [total block time: 8.364s]
+2014-09-07 06:33:50.429+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 222ms [total block time: 8.586s]
+2014-09-07 06:33:53.794+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 3063ms [total block time: 11.649s]
+2014-09-07 06:33:54.470+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 275ms [total block time: 11.924s]
+2014-09-07 06:33:54.943+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 173ms [total block time: 12.097s]
+2014-09-07 06:33:55.459+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 216ms [total block time: 12.313s]
+2014-09-07 06:33:58.957+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 3198ms [total block time: 15.511s]
+2014-09-07 06:33:59.726+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 165ms [total block time: 15.676s]
+2014-09-07 06:34:00.235+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 209ms [total block time: 15.885s]
+2014-09-07 06:34:00.963+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 327ms [total block time: 16.212s]
+2014-09-07 06:34:01.731+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 267ms [total block time: 16.479s]
+2014-09-07 06:34:02.370+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 339ms [total block time: 16.818s]
+2014-09-07 06:34:13.283+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 7210ms [total block time: 24.028s]
